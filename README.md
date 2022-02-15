@@ -1,0 +1,3 @@
+- For easy to review, I use Create React Native App to init the repo.
+- Run `yarn` to install the dependencies. Expo CLI will be asked to install.
+- Run `yarn web` to run as a web. A QR code is provided to use with Expo App.
