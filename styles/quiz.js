@@ -1,6 +1,6 @@
 import { StyleSheet } from 'react-native';
 
-export const quizStyles = StyleSheet.create({
+export const style = StyleSheet.create({
     container: {
         flex: 1,
         backgroundColor: '#76DAFE',
@@ -10,12 +10,6 @@ export const quizStyles = StyleSheet.create({
     titleBox: {
         width: "100%",
         height: 250,
-    },
-    quizBox: {
-        backgroundColor: "#3C6C82",
-        borderTopLeftRadius: 25,
-        borderTopRightRadius: 25,
-        width: "100%",
-        height: "80%",
     }
 });
+
